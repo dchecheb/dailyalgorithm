@@ -13,7 +13,9 @@
     - 힙은 각 노드의 값이 자식 노드보다 크거나 같다.(Max Heap)
     - 이진 탐색 트리는 왼쪽 노드의 값이 가장 작고, 오른쪽 노드 값이 가장 크다.
     - 힙은 왼쪽 자식노드가 오른쪽 자식노드보다 작다는 조건이 없다.
-    
+    - 이진 탐색트리는 탐색을 위한 구조, 힙은 최대/최소값을 위한 구조 중 하나라고 이해하면 된다.
+
 
 ## Reference
 - [python 모듈](https://www.daleseo.com/python-heapq/)
+- https://www.fun-coding.org/Chapter11-heap.html
