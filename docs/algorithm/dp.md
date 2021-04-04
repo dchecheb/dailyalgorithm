@@ -47,3 +47,4 @@ print(fibo_dp(10))
 - https://www.fun-coding.org/Chapter14-dp_divide.html
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Algorithm
 - https://cupjoo.tistory.com/20
+- [풀이 요령](http://kmelon55.com/?p=210)
