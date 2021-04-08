@@ -1,5 +1,6 @@
 # 동전 0
 
+전형적인 그리디 문제
 
 ## My Answer
 ```python
