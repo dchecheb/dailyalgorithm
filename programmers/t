@@ -1,0 +1,10 @@
+firebaseCredential.put("type", "service_account");
+firebaseCredential.put("project_id", System.getenv("FB_PROJECT_ID"));
+firebaseCredential.put("private_key_id", System.getenv("FB_PRIVATE_KEY_ID"));
+firebaseCredential.put("private_key", System.getenv("FB_PRIVATE_KEY"));
+firebaseCredential.put("client_email", System.getenv("FB_CLIENT_EMAIL"));
+firebaseCredential.put("client_id", System.getenv("FB_CLIENT_ID"));
+firebaseCredential.put("auth_uri", "https://accounts.google.com/o/oauth2/auth");
+firebaseCredential.put("token_uri", "https://oauth2.googleapis.com/token");
+firebaseCredential.put("auth_provider_x509_cert_url", "https://www.googleapis.com/oauth2/v1/certs");
+firebaseCredential.put("client_x509_cert_url", System.getenv("FB_CLIENT_X509_CERT_URL"));
